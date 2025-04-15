@@ -69,10 +69,10 @@ Mapped cluster behavior to interpretable groups:
 
 ## 💾 Files
 
-- `segment_results.csv`: Final dataset with segment labels
-- `segment_model.py`: Script for model training and clustering
-- `one_page_report.pdf`: Summary report for stakeholder meeting
-- `segment_presentation`: [Google Slides presentation with visuals and insights](https://docs.google.com/presentation/d/1mpNVodS6Izz83p8ANrdABCSyvglVRqVUJRJvwsbWY0s/edit?usp=sharing)
+- `segmented_customers.csv`: Final dataset with segment labels
+- `Daniel_Hellmuth_DA109_Mastery_Project_TravelTide_Customer_Segmentation.ipynb`: Script for model training and clustering
+- `Daniel Hellmuth DA109 TravelTide Executive Summary.pdf`: Summary report for stakeholder meeting
+- Customer Segmentation Presentation: [Google Slides presentation with visuals and insights](https://docs.google.com/presentation/d/1mpNVodS6Izz83p8ANrdABCSyvglVRqVUJRJvwsbWY0s/edit?usp=sharing)
 
 ## ✅ Next Steps
 
